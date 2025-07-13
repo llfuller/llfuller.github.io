@@ -9,10 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* UCSD, Doctorate in “Physics, with Specialization in Computational Neuroscience” 2024
-
 Skills
 ======
 * Software: Physical simulation, dynamical systems, modular code, version control  
@@ -63,3 +59,8 @@ Personal projects
   * ○ Literature review, experimental design, and analysis  
   * ○ Interdisciplinary project: robotics, physics, and neuroscience  
   * ○ Data collection in progress
+
+Education
+======
+* UCSD, Doctorate in “Physics, with Specialization in Computational Neuroscience” 2024
+* University of Arizona, Bachelor's in Science “Physics and Applied Mathematics” 2017
