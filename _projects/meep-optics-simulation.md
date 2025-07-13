@@ -3,6 +3,7 @@ title: "MEEP Optics Simulation with Parallel Processing"
 excerpt: "Implementation and testing of the MEEP open-source optics simulation library with enhanced parallel processing capabilities for multi-core CPU systems."
 collection: projects
 date: 2024-06-13
+status: completed
 ---
 
 This project focused on implementing the MEEP (MIT Electromagnetic Equation Propagation) open-source optics simulation library with parallel processing capabilities. The work included:

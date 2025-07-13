@@ -3,6 +3,7 @@ title: "Circuits for Low-Powered Applications"
 excerpt: "Interdisciplinary research project combining robotics, physics, and neuroscience to develop energy-efficient circuit designs for low-power applications."
 collection: projects
 date: 2024-01-01
+status: ongoing
 ---
 
 As Team Lead for this interdisciplinary research project, I am coordinating efforts between an experimental materials scientist and computational physicist to develop novel circuit designs for low-power applications. The project integrates concepts from robotics, physics, and neuroscience.

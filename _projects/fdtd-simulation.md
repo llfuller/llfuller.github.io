@@ -3,6 +3,7 @@ title: "FDTD Simulation from Scratch"
 excerpt: "Parallelized implementation of Finite-Difference Time-Domain (FDTD) simulation using Yee lattice formulation for electromagnetic wave propagation."
 collection: projects
 date: 2024-05-06
+status: completed
 ---
 
 This project involved implementing a Finite-Difference Time-Domain (FDTD) simulation from scratch using the Yee lattice formulation. The implementation includes:
