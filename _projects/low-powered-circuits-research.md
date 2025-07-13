@@ -1,5 +1,5 @@
 ---
-title: "Circuits for Low-Powered Applications"
+title: "Circuits for Low-Powered Robotics Applications"
 excerpt: "Interdisciplinary research project combining robotics, physics, and neuroscience to develop energy-efficient circuit designs for low-power applications."
 collection: projects
 date: 2024-01-01
