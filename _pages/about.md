@@ -36,7 +36,7 @@ Implemented C++ ROOT analyses for ATLAS collaboration; built Python visualizatio
 
 ## Teaching & Mentorship
 - **Graduate TA, UC San Diego (2018 – 2024):** Courses in neurophysics, scientific computing (MPI/OpenMP/CUDA), electromagnetism, thermodynamics, fluid mechanics, Newtonian mechanics, and nonlinear dynamics.
-- Mentored undergraduate researchers on spiking neural networks, physics simulation, and time-delay embedding modeling.
+- Mentored undergraduate researchers on spiking biological neural networks, physics simulation, and time-delay embedding modeling.
 
 ## Contact
 - **Email:** LLFuller@ucsd.edu  
