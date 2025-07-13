@@ -15,7 +15,7 @@ I am a computational physicist working at the intersection of **physics‑based 
 | Degree                                                              | Institution           | Year      | Highlights                                                  |
 |---------------------------------------------------------------------|-----------------------|-----------|-------------------------------------------------------------|
 | **Ph.D. Physics, with Specialization in Computational Neuroscience**  | UC San Diego          | Dec 2024  | Physics–ML hybrid modeling for neural dynamics; **Bhadra Fellow 2023** |
-| **B.S. Physics & Applied Mathematics**                              | University of Arizona | 2018      | Dual majors; undergraduate research in computational physics |
+| **B.S. Physics & Applied Mathematics**                              | University of Arizona | 2018      | Undergraduate research in computational physics (relating to particle physics and black holes) |
 
 ## Experience
 ### Computational Physicist — **Imagia** (Jun 2024 – Jul 2025)  
