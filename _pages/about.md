@@ -34,7 +34,7 @@ Implemented C++ ROOT analyses for ATLAS collaboration; built Python visualizatio
 — see [`Paper in Neural Computation`](https://direct.mit.edu/neco/article/34/7/1545/111332).
 - **Low‑Power Neuromorphic Circuits:** Ongoing collaborative project exploring circuits for robotics problems.
 - **FDTD (Yee lattice) Solver:** Parallelized electromagnetic solver from scratch with visualization scripts — see [`GitHub Repo: Optics_Sims`](https://github.com/llfuller/Optics_Sims).
-- **MEEP HPC Integration:** Wrapper scripts enabling multi‑core MEEP runs for large metasurface layouts, plus batching utilities.
+- **MEEP HPC Integration:** Wrapper scripts enabling multi‑core MEEP runs for optical metasurface pillar cells.
 
 ## Teaching & Mentorship
 - **Graduate TA, UC San Diego (2018 – 2024):** Courses in neurophysics, scientific computing (MPI/OpenMP/CUDA), electromagnetism, thermodynamics, fluid mechanics, Newtonian mechanics, and nonlinear dynamics.
