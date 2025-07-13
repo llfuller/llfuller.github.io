@@ -3,7 +3,7 @@ title: "Reduced-Dimension, Biophysical Neuron Models Constructed From Observed D
 collection: publications
 category: manuscripts
 permalink: /publication/2022-06-16-neural-computation
-excerpt: 'Using methods from nonlinear dynamics and interpolation techniques from applied mathematics, we show how to use data alone to construct discrete time dynamical rules that forecast observed neuron properties. These data may come from simulations of a Hodgkin-Huxley (HH) neuron model or from laboratory current clamp experiments. In each case, the reduced-dimension, data-driven forecasting (DDF) models are shown to predict accurately for times after the training period.'
+excerpt: '"Using methods from nonlinear dynamics and interpolation techniques from applied mathematics, we show how to use data alone to construct discrete time dynamical rules that forecast observed neuron properties. These data may come from simulations of a Hodgkin-Huxley (HH) neuron model or from laboratory current clamp experiments. In each case, the reduced-dimension, data-driven forecasting (DDF) models are shown to predict accurately for times after the training period."'
 date: 2022-06-16
 venue: 'Neural Computation'
 # slidesurl: 'https://direct.mit.edu/neco/article-pdf/34/7/1545/2030451/neco_a_01515.pdf'
