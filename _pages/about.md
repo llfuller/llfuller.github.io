@@ -26,7 +26,7 @@ Developed an end‑to‑end Python pipeline for electromagnetic design, cutting 
 ### AI Scientist (Contractor) — **Ascend OS** (Feb 2025 – Apr 2025)  
 Architected an agentic LLM backend (LangGraph) that generated personalized ice‑breaker content for a nearly 100‑person corporate event.
 
-### Research Assistant — **Lawrence Berkeley National Lab** (Aug 2017 – Mar 2018)  
+### Research Assistant Intern — **Lawrence Berkeley National Lab** (Aug 2017 – Mar 2018)  
 Implemented C++ ROOT analyses for ATLAS collaboration; built Python visualization tools for the Particle Data Group and was credited in the *Review of Particle Physics 2018*.
 
 ## Publications & Projects
