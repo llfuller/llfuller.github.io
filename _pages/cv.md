@@ -11,13 +11,13 @@ redirect_from:
 
 Education
 ======
-* UCSD, Doctorate in “Physics, with Specialization in Computational Neuroscience” 2024 :contentReference[oaicite:7]{index=7}
+* UCSD, Doctorate in “Physics, with Specialization in Computational Neuroscience” 2024
 
 Skills
 ======
 * Software: Physical simulation, dynamical systems, modular code, version control  
 * Machine Learning: PyTorch, scikit‑learn, Python (10 years exp.), clustering (k‑means), (non)linear optimization, mut. information  
-* Statistical/ML Methods: Time series prediction, signal processing, information embedding, PCA, self‑supervised learning, data vis., k‑Nearest Neighbors, stability analysis, Fourier analysis, param. optimization :contentReference[oaicite:8]{index=8}
+* Statistical/ML Methods: Time series prediction, signal processing, information embedding, PCA, self‑supervised learning, data vis., k‑Nearest Neighbors, stability analysis, Fourier analysis, param. optimization
 
 Work experience
 ======
@@ -27,7 +27,7 @@ Work experience
   * ● Agentic LLM (tool use) via LangGraph  
   * ● Software: Cloud database, issue ticketing  
   * ● Small team production‑level software development  
-  * ● Version control: GitHub :contentReference[oaicite:9]{index=9}
+  * ● Version control: GitHub
 
 * Jun 2024 – Jul 2025 (1 year): Imagia, startup – Computational Physicist  
   * ● Physical simulation: Fully architected end‑to‑end Python pipelines for electromagnetic wave optical metasurface simulation, streamlining design process  
@@ -46,11 +46,11 @@ Work experience
   * ● Tested different design strategies: Greedy, evolutionary, Monte Carlo, k‑means clustering  
   * ● Data postprocessing: Linear regression, convex optimization, PyTorch feedforward neural network  
   * ● Matched filter algorithms  
-  * ● Managed Ansys Licenses, (de)installation and determined GPU requirements :contentReference[oaicite:10]{index=10}
+  * ● Managed Ansys Licenses, (de)installation and determined GPU requirements
 
 * Aug 2017 – Mar 2018: Intern Research Assoc., LHC ATLAS and PDG, Lawrence‑Berkeley Nat. Lab  
   * ● C++ large data analysis/processing for LHC ATLAS. Implemented unfamiliar framework (C++ ROOT) in 3‑4 months to deliver new results. Poster presented.  
-  * ● Production Python data vis. software, Particle Data Group. Delivered complete results in 3‑4 months. Credited Technical Associate in author list: Review of Particle Physics (2018). Poster presented. :contentReference[oaicite:11]{index=11}
+  * ● Production Python data vis. software, Particle Data Group. Delivered complete results in 3‑4 months. Credited Technical Associate in author list: Review of Particle Physics (2018). Poster presented.
 
 Personal projects
 ======
@@ -62,4 +62,4 @@ Personal projects
   * ○ Working with one experimental materials scientist and one computational physicist  
   * ○ Literature review, experimental design, and analysis  
   * ○ Interdisciplinary project: robotics, physics, and neuroscience  
-  * ○ Data collection in progress :contentReference[oaicite:12]{index=12}
+  * ○ Data collection in progress
