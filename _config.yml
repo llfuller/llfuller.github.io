@@ -33,7 +33,7 @@ author:
 
   # Academic websites
   academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
+  arxiv            : "https://arxiv.org/search/physics?searchtype=author&query=Fuller,+L"
   googlescholar    : "https://scholar.google.com/citations?user=aZz-AhwAAAAJ&hl=en"
   impactstory      : # URL
   orcid            : #"http://orcid.org/yourorcidurl"
