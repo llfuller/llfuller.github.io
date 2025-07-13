@@ -19,7 +19,7 @@ I am a computational physicist working at the intersection of **physics‑based 
 
 ## Experience
 ### Computational Physicist — **Imagia** (Jun 2024 – Jul 2025)  
-Developed an end‑to‑end Python pipeline for electromagnetic design, cutting setup time from 8 h to ≈ 100 s (300x speedup), performed pre-processing and analysis of experimental data, and coordinated across design, fabrication, and experimental teams.
+Developed an end‑to‑end Python pipeline for electromagnetic design, cutting setup time from 8 h to ≈ 100 s (300x speedup), performed pre-processing and analysis of experimental image data, and coordinated across all simulation/design, fabrication, and experimental/analysis teams.
 
 ### AI Scientist (Contractor) — **Ascend OS** (Feb 2025 – Apr 2025)  
 Architected an agentic LLM backend workflow that generated personalized ice‑breaker content for a 100‑person corporate event. Implemented pair-specific person-to-person LLM agent-facilitated introductions.
