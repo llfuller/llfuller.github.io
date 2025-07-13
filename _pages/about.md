@@ -22,7 +22,7 @@ I am a computational physicist working at the intersection of **physics‑based 
 Developed an end‑to‑end Python pipeline for electromagnetic design, cutting setup time from 8 h to ≈ 100 s (300x speedup), performed pre-processing and analysis of experimental data, and coordinated across design, fabrication, and experimental teams.
 
 ### AI Scientist (Contractor) — **Ascend OS** (Feb 2025 – Apr 2025)  
-Architected an agentic LLM backend workflow that generated personalized ice‑breaker content for a nearly 100‑person corporate event. Implemented pair-specific person-to-person LLM agent-facilitated introductions.
+Architected an agentic LLM backend workflow that generated personalized ice‑breaker content for a 100‑person corporate event. Implemented pair-specific person-to-person LLM agent-facilitated introductions.
 
 ### Research Assistant Intern — **Lawrence Berkeley National Lab** (Aug 2017 – Mar 2018)  
 Implemented C++ ROOT analyses for ATLAS collaboration; built Python visualization tools for the Particle Data Group and was credited in the *Review of Particle Physics 2018*.
