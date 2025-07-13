@@ -3,7 +3,7 @@ title: "2-D Kuramoto Oscillator Membrane"
 excerpt: "Coupled-oscillator simulation on a 2-D grid illustrating membrane-like neuronal dynamics."
 collection: projects
 date: 2025-07-13
-status: in-progress
+status: completed
 ---
 
 <p align="center">
