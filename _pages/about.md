@@ -13,6 +13,7 @@ redirect_from:
 I am a computational physicist working at the intersection of **physics‑based simulation, computational neuroscience, and machine learning**. My projects range from electromagnetic simulation, to graphs of interacting dynamical systems, to data‑driven modeling of biological neurons. I'm most interested in finding novel methods of computation using any available physical systems in order to create future computational technologies with greater ability and lower time and energy costs.
 
 ## Education
+
 | Degree                                                              | Institution           | Year      | Highlights                                                  |
 |---------------------------------------------------------------------|-----------------------|-----------|-------------------------------------------------------------|
 | **Ph.D. Physics, with Specialization in Computational Neuroscience**  | UC San Diego          | Dec 2024  | Physics–ML hybrid modeling for neural dynamics; **Bhadra Fellow 2023** |
