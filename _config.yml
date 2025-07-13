@@ -22,9 +22,9 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Lawson Fuller Profile Pic.jpg"
+  avatar           : "Lawson_Pic.jpg"
   name             : "Lawson Fuller"
-  pronouns         : # example: "she/her"  
+  pronouns         : "he/him"  
   bio              : "A physicist interested in studying novel computational methods through the lens of of physics and neuroscience."
   location         : "San Jose, CA"
   employer         : "Imagia"
