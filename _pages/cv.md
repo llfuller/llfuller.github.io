@@ -35,7 +35,7 @@ Work experience
   * Reduce datafile size by 4× using geometry symmetries  
   * Automated data tracking for simulation results for easy review/reference  
   * Worked with team members spanning a complete design pipeline: Virtual design, physical simulation, communicating with chemical fabrication engineer, experimental testing, and post‑experimental data analysis.  
-  * Researched potential low‑power neural network hardware implementations on market for post‑processing hyperspectral data  
+  * Researched potential low‑power neural network hardware implementations on market for post‑processing image data  
   * Designed, simulated, & presented production‑ready files to fabrication engineers  
   * Data preprocessing: noise cleaning/reduction of experimental data  
   * Tested noise sensitivity of model with synthetic data  
