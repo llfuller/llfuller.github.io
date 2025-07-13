@@ -30,9 +30,9 @@ Implemented C++ ROOT analyses for ATLAS collaboration; built Python visualizatio
 
 ## Publications & Projects
 - **Journal Article:** “Reduced‑Dimension, Biophysical Neuron Models Constructed From Observed Data.” *Neural Computation* 34(7): 1545 – 1587 (2022).  
-  *Code:* <https://github.com/llfuller/DDF-HVC-CM-Neurons>
+- see [`Paper in Neural Computation`](https://direct.mit.edu/neco/article/34/7/1545/111332).
 - **Low‑Power Neuromorphic Circuits:** Ongoing collaborative project exploring circuits for robotics problems.
-- **FDTD (Yee lattice) Solver:** Parallelized electromagnetic solver from scratch with visualization scripts — see [`projects/fdtd`](https://github.com/llfuller/Optics_Sims).
+- **FDTD (Yee lattice) Solver:** Parallelized electromagnetic solver from scratch with visualization scripts — see [`GitHub Repo: Optics_Sims`](https://github.com/llfuller/Optics_Sims).
 - **MEEP HPC Integration:** Wrapper scripts enabling multi‑core MEEP runs for large metasurface layouts, plus batching utilities.
 
 ## Teaching & Mentorship
