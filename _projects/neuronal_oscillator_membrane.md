@@ -13,7 +13,7 @@ status: completed
 </p>
 
 This project models a membrane of phase-coupled Kuramoto oscillators on a two-dimensional grid.  
-The simulation captures rich spatiotemporal patterns—phase locking, traveling waves, and chimera states—mirroring phenomena observed in large neuronal populations.
+The simulation captures rich spatiotemporal patterns—spirals, traveling waves, and chimera states—mirroring phenomena observed in large neuronal populations.
 
 ## Key Features
 - **Coupling:** nearest-neighbor and optional long-range interactions  
