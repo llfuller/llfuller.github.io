@@ -18,7 +18,7 @@ Skills
 
 Work experience
 ======
-* 2025 – Present: The Biological Computing Co. (TBC), startup – Computational Neuroscientist
+* Aug 2025 – Present: The Biological Computing Co. (TBC), startup – Computational Neuroscientist
   * Member of TBC's computational neuroscience team, also contributing in the AI model / ML algorithm space
   * Cross‑disciplinary collaboration with neuroscience, ML, and bioengineering teams at TBC's SF Mission Bay flagship lab
   * Working with the processing and storage of experimental biological neural spike data

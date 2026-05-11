@@ -18,7 +18,7 @@ I am a physicist and computational neuroscientist working at the intersection of
 | **B.S. Physics & Applied Mathematics**                              | University of Arizona | 2018      | Undergraduate research in computational physics (relating to particle physics and black holes) |
 
 ## Experience
-### Computational Neuroscientist — **The Biological Computing Co. (TBC)** (2025 – Present)
+### Computational Neuroscientist — **The Biological Computing Co. (TBC)** (Aug 2025 – Present)
 Research focused on investigating biological neurons as a foundation for next‑generation AI. I am a member of TBC's computational neuroscience team, while also contributing to work in the AI model and ML algorithm space, bridging neural data and analysis with the design of biologically inspired models and architectures. TBC's research program studies how biological neuronal cultures process information and translates those biologically derived principles into new AI models and architectures beyond transformers. Target application areas include computer vision and broader AI‑infrastructure improvements, with ongoing exploration of real‑time biological compute and pattern completion/prediction for time‑series data.
 
 ### Computational Physicist — **Imagia** (Jun 2024 – Jul 2025)
